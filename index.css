@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+
+    background-color: rgb(229, 231, 242);
+}
+
+.container{
+    width: 20%;
+    padding: 1%;
+    border-radius: 10px;
+    background-color: white;
+
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+
+
+}
+
+img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+
+
+
+.attribution{
+    width: 90%;
+    display:flex;
+    align-self: flex-end;
+}
